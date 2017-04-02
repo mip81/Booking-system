@@ -1,0 +1,46 @@
+.mydiv{
+  background-color: red;
+  font-weight: bold;
+  color: yellow;
+}
+body{
+  background-image: url("/images/bg.jpg");
+}
+.row{
+  margin-top: 20px;
+}
+TD.datatable{
+  text-align: center;
+}
+BUTTON.btn{
+  width: 100px;
+}
+div.panel-procedure{
+  height: 270px;
+}
+table{
+  border-radius: 25px
+  border: 1px black solid;
+
+}
+.input-group{
+  margin-bottom: 5px;
+}
+.modal-content{
+  width: 400px;
+}
+.modal-dialog{
+  width: 400px;
+}
+input.ng-touched {
+    background-color: orange;
+    color: white;
+}
+
+input.ng-touched.ng-valid{
+  background-color: lightgreen;
+  color: #061b33;
+}
+.tdbookf{
+  font-size: 10px;
+}
